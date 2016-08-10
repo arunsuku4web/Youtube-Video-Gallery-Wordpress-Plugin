@@ -175,6 +175,4 @@ function youtube_gallery_settings_menu()
 include(YG_ROOT_PATH.'/widgets/youtube-video-category-widget.php');
 include(YG_ROOT_PATH.'/widgets/youtube-related-video-widget.php');
 
-include(YG_ROOT_PATH.'/widgets/youtube-video-category-widget.php');
-include(YG_ROOT_PATH.'/widgets/youtube-related-video-widget.php');
 ?>
