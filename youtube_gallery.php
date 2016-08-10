@@ -2,7 +2,7 @@
 /*
 Plugin Name: GY Video Gallery
 Plugin URI: http://greenfrog.in
-Description: Simple Video Gallery With Youtube Urls.
+Description: Simple Video Gallery Using Youtube Urls.
 Version: 1.0.0
 Author: Green Frog IT Solutions
 Author URI: http://greenfrog.in
